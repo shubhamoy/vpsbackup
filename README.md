@@ -10,5 +10,5 @@ VPS Backup Script
 4. Moves it to another server
 
 ========================================================================================================================
-Cheers to: darkshadow, ap3x, d34thr1pp3r, COde InjectOr, Coded32, D1617 64, H4ck0, 1ntrud3r and ICP
+Cheers to: darkshadow, ap3x, d34thr1pp3r, COde InjectOr, Un_Non Antilog, Coded32, D1617 64, H4ck0, 1ntrud3r and ICP
 ========================================================================================================================
