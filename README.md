@@ -5,7 +5,7 @@ Send your queries at shubhamoy[at]kalakhatta.com
 ========================================================================================================================
 
 This script is quite handy for those who are running their personal web servers and wish to take store the backup on 
-different server.
+different server. This script is dedicated to my family and mentors.
 
 VPS Backup Script
 -----------------
