@@ -23,8 +23,7 @@ Read this tutorial for creating public/private keys on Remote Server for SSH Log
 (http://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/)
 
 
-
-========================================================================================================================
-Cheers to: 
+Cheers to 
+----------
 darkshadow, ap3x, d34thr1pp3r, COde InjectOr, Un_Non Antilog, Coded32, D1617 64, H4ck0, 1ntrud3r and ICP
 ========================================================================================================================
