@@ -1,11 +1,7 @@
-========================================================================================================================
 VPS Backup Script 
-Version 1.1
-Send your queries at shubhamoy[at]kalakhatta.com
-========================================================================================================================
+-----------------
 
-This script is quite handy for those who are running their personal web servers and wish to take store the backup on 
-different server. This script is dedicated to my family and mentors.
+A script which automates the backup process for a server. It is dedicated to my family members and mentors.
 
 VPS Backup Script
 -----------------
@@ -26,5 +22,10 @@ Read this tutorial for creating public/private keys on Remote Server for SSH Log
 Cheers to 
 ----------
 darkshadow, ap3x, d34thr1pp3r, COde InjectOr, Un_Non Antilog, Coded32, D1617 64, H4ck0, 1ntrud3r and ICP
-------------------------------------------------------------------------------------------------------------------------
-========================================================================================================================
+
+Contact Me
+----------
+shubhamoy[at]kalakhatta.com
+
+fb.me/shubhamoy
+
