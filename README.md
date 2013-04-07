@@ -1,8 +1,11 @@
 ========================================================================================================================
 VPS Backup Script 
-Version 1.0
+Version 1.1
 Send your queries at shubhamoy[at]kalakhatta.com
 ========================================================================================================================
+
+This script is quite handy for those who are running their personal web servers and wish to take store the backup on 
+different server.
 
 VPS Backup Script
 -----------------
