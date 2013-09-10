@@ -8,7 +8,7 @@ MYSQLDUMP="$(which mysqldump)"
 TAR="$(which tar)"
 PASS="Enter your MySQL Password"
 $MYSQLDUMP -u root -h localhost -p$PASS dbname > sqldump$DATE.sql
-$TAR -cvf $DATE.tar /var/www
+$TAR -zcvf $DATE.tar /var/www
 $TAR -rvf DATE.tar sqldump$DATE.sql
 scp $DATE.tar user@remote-host:directory
 rm -rf *.tar
