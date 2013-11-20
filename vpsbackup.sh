@@ -11,5 +11,6 @@ $MYSQLDUMP -u root -h localhost -p$PASS dbname > sqldump$DATE.sql
 $TAR -zcvf $DATE.tar /var/www
 $TAR -rvf DATE.tar sqldump$DATE.sql
 scp $DATE.tar user@remote-host:directory
-rm -rf *.tar
-rm -rf *.sql
+#Issue: 1 Thanks to johnwbyrd. Basically this was added to remove the backup files. 
+#rm -rf *.tar
+#rm -rf *.sql
