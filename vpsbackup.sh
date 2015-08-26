@@ -12,7 +12,7 @@ $MYSQLDUMP -u root -h localhost -p$PASS dbname > sqldump$DATE.sql
 # Configure the path for your web directory
 # Apache Default Web Root: /var/www
 # nGinx Default Web Root: /usr/share/nginx/html
-$TAR -zcvf $DATE.tar /var/www
+$TAR -cvf $DATE.tar /var/www
 $TAR -rvf DATE.tar sqldump$DATE.sql
 scp $DATE.tar user@remote-host:directory
 rm -rf !($DATE.tar | sqldump$DATE.sql | vpsbackup.sh)
